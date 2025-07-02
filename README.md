@@ -1,2 +1,2 @@
 # portifolio
-Currículo
+portifolio para alunos 
